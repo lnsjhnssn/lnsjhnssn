@@ -1,0 +1,1 @@
+- 👋 Sound Designer trying to learn how to code. Odin Project since 230909
