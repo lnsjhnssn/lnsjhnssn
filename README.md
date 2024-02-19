@@ -1,1 +1,1 @@
-- 👋 Sound Designer learning to code
+- 👋 Learning code
