@@ -2,7 +2,8 @@
 <br><br>
 Student at Altcademy Fullstack Program 2024 
 <br>
-Amateur front-end developer
+Studying front- and backend development 
+- HTML, CSS, JS, React, Ruby, Ruby on Rails - 
 <br>
 Professional sound designer and sound engineer
 <br>
