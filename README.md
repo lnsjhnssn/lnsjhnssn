@@ -12,7 +12,7 @@ Working as sound designer and sound engineer
 <br>
 Speaks: English, French, Swedish
 <br><br>
-Learning HTML, CSS, Javascript, React, Ruby
+
 
 
 
